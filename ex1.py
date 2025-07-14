@@ -10,4 +10,3 @@ c = 36.2
 print("El valor de a es:", a)
 print("El valor de b es:", b)
 print("El valor de c es:", c)
-https://github.com/pau111000/python-4-projects.git
