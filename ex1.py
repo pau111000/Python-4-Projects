@@ -6,7 +6,6 @@ a = 1
 b = 'Francia'
 c = 36.2
 
-# Print
 print("El valor de a es:", a)
 print("El valor de b es:", b)
 print("El valor de c es:", c)
